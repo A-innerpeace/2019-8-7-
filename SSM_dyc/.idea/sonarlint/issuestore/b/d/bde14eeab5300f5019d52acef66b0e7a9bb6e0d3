@@ -1,0 +1,14 @@
+
+_javascript:S2814"ERename "p0" as this name is already used in declaration at line 1022.(«ÍóÑ
+djavascript:S2814"ERename "str" as this name is already used in declaration at line 458.(†Õ–ûÿÿÿÿ
+fjavascript:S2814"GRename "parts" as this name is already used in declaration at line 464.(¢áöëøÿÿÿÿ
+[javascript:UnusedVariable"3Remove the declaration of the unused 'w2' variable.(Ô°Êãıÿÿÿÿ
+Zjavascript:UnusedVariable"7Remove the declaration of the unused 'newSeq' variable.(¢ÄÁ×
+cjavascript:UnusedVariable";Remove the declaration of the unused 'IE_VERSION' variable.( ’¾ûÿÿÿÿÿ
+[javascript:UnusedVariable"3Remove the declaration of the unused 'h2' variable.(‘Àƒàüÿÿÿÿ
+\javascript:UnusedVariable"9Remove the declaration of the unused 'lineOpen' variable.(Ğ°ÿÍ
+\javascript:S1854"=Remove this useless assignment to local variable "IE_VERSION"( ’¾ûÿÿÿÿÿ
+Tjavascript:S1854"5Remove this useless assignment to local variable "h2"(‘Àƒàüÿÿÿÿ
+Tjavascript:S1854"5Remove this useless assignment to local variable "w2"(Ô°Êãıÿÿÿÿ
+Njavascript:S1854"4Remove this useless assignment to local variable "c"(øå¨
+‡javascript:S2703"hAdd the "let", "const" or "var" keyword to this declaration of "G_vmlCanvasManager" to make it explicit.(ó”«ûüÿÿÿÿ
